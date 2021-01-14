@@ -3,5 +3,11 @@ body{
     font-family: 'Roboto Condensed', sans-serif;
 }
 h1{
+    color: rgb(8, 8, 77);
     font-size: 60px;
+    font-weight: 800;
+}
+h5{
+    color: rgb(43, 43, 97);
+    font-weight: 800;
 }
